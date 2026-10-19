@@ -1,0 +1,27 @@
+Crie um jogo de RPG de turnos, bem simples mas muito bonito.
+HTML, CSS e JS vanilla, tudo em um único arquivo HTML.
+Identidade visual bonita. Animações e efeitos modernos e de acordo com o universo do game.
+
+atributos de cada boneco:
+vida
+ataque
+iniciativa
+defesa/armadura
+
+RPG de turno.
+
+Tem PvP x1: dois jogadores, cada um escolhe um boneco.
+Tem PvE, pro jogador treinar as mecânicas de cada boneco.
+
+
+Cada boneco tem Ataques:
+Ataque básico
+Ataque alternativo
+Ataque especial
+Chance de crítico
+
+As mecânicas de jogabilidade devem balancear os bonecos (nenhum muito apelão) e respeitar o universo.
+
+Tem imagem para os bonecos
+
+Insira aqui seu universo:Minecraft
